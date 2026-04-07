@@ -1,6 +1,6 @@
 {
   "name": "CUDA",
-  "image": "nvidia/cuda:13.2.0-runtime-ubuntu22.04",
+  "image": "nvcr.io/nvidia/cuda:13.2.0-runtime-ubuntu22.04",
   "runArgs": [
     "--gpus=all"
   ],
